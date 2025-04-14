@@ -1,5 +1,18 @@
 body{
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: pink;
+color: grey;
+font-size: 30px;
 }
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+#container h1{
+    font-family: fantasy;
+    font-size: 40px;
+}
+
